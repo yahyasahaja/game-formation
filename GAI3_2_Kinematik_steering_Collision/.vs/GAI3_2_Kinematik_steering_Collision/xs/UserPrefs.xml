@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{34CB7CC9-E8FC-31F7-1DB6-DD0020F59EFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GAI3_Steering/Script/Game.cs">
+    <Files>
+      <File FileName="Assets/GAI3_Steering/Script/SteerSeekColl.cs" Line="85" Column="8" />
+      <File FileName="Assets/GAI3_Steering/Script/SteerSeek.cs" Line="36" Column="32" />
+      <File FileName="Assets/GAI3_Steering/Script/SteerSeekArrive.cs" Line="49" Column="103" />
+      <File FileName="Assets/GAI3_Steering/Script/Circle.cs" Line="8" Column="20" />
+      <File FileName="Assets/GAI3_Steering/Script/Game.cs" Line="10" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
